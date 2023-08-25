@@ -10,9 +10,9 @@ At This Is Me, we believe in the power of love and kindness. Our moto is "We giv
 
 Our mission is to spread love and positivity by organizing events, workshops, and gatherings that bring people together. Through these activities, we aim to build lasting connections and create a supportive network of individuals who uplift and empower each other.
 
-## TIM Flutter Application
+<!-- ## TIM Flutter Application
 
-We have developed a mobile application called TIM, which is available for both Android and iOS devices. The TIM app provides a platform for our members to stay connected, access event listings, and participate in various community activities. It also allows members to communicate with each other through chatrooms and direct messages.
+We have developed a mobile application called TIM, which is available for both Android and iOS devices. The TIM app provides a platform for our members to stay connected, access event listings, and participate in various community activities. It also allows members to communicate with each other through chatrooms and direct messages. -->
 
 ## How to Join
 
@@ -37,7 +37,7 @@ If you believe in our mission and would like to support This Is Me, you can cont
 
 For any inquiries or to learn more about This Is Me Organization, you can reach out to us via:
 
-- Email: [info@thisisme.community](mailto:info@thisisme.community)
+- Email: [talktothisisme@gmail.com](mailto:talktothisisme@gmail.com)
 - Phone: [+254746623164](tel:+254746623164)
 - P.O. Box: 4947-00100 NAIROBI, KENYA
 
