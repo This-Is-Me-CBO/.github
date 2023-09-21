@@ -14,10 +14,6 @@ Our mission is to spread love and positivity by organizing events, workshops, an
 
 We have developed a mobile application called TIM, which is available for both Android and iOS devices. The TIM app provides a platform for our members to stay connected, access event listings, and participate in various community activities. It also allows members to communicate with each other through chatrooms and direct messages. -->
 
-## How to Join
-
-Joining This Is Me is easy! Simply download the TIM app from the Google Play Store or the Apple App Store and create an account. Once you sign up, you become a valued member of our community, and you can start exploring events and engaging with other members.
-
 ## Get Involved
 
 We encourage all our members to actively participate in our community events and initiatives. If you have any ideas for workshops, gatherings, or activities that align with our mission, feel free to share them with us. Together, we can make a positive impact and spread love and kindness to even more people.
